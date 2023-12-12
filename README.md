@@ -57,8 +57,10 @@ print(list_of_nums)
 ```
 
 ## Output:
-![all text](/selection%20sort%201.png)
-![all text](/selection%20sort%202.png)
+![selection sort 1](https://github.com/PREM3112/Sorting-Algorithm/assets/145449383/928448c9-fe8b-40c8-bdeb-722925e19e59)
+![selection sort 2](https://github.com/PREM3112/Sorting-Algorithm/assets/145449383/198d57c6-2206-4043-84cc-bb6b14786a72)
+
+
 
 
 ## Result:
